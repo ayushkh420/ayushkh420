@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi, I'm Ayush Khandelwal 👋
 
 
-I'm Ayush Khandelwal
 
 Here are some ideas to get you started:
 
