@@ -43,8 +43,6 @@
 <a href="https://github.com/ayushkh420">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushkh420&show_icons=true&theme=algolia" alt="Ayush's github stats"/>
 </a>
-<a href="https://github.com/ayushkh420"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkh420&theme=highcontrast" alt="Ayush's github stats"/>
-</a>
 
 
 
