@@ -6,7 +6,7 @@
 
 ## I'm a FullStack Developer, Machine Learning Enthusiast & DSA Learner!!
 
-- 🌱 I’m currently learning DSA, ML, React-js, Node.js & Cloud Technologies
+- 🌱 I’m currently learning DSA, ML,React Native, React-js, Node.js & Cloud Technologies
 - 👯 I’m looking to collaborate on Youtube
 - 📫 How to reach me: [Youtube - @ayushkhandelwal](https://www.youtube.com/channel/UCdhDtGj-qKMKdLwk4EMLXsQ), [Instagram - @ayush_222](https://www.instagram.com/ayush_222/)
 - 😄 Pronouns: He/His
